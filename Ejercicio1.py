@@ -1,4 +1,4 @@
-
+# EJERCICIO 1
 ruta_archivo = './archivo.txt'
 with open(ruta_archivo, mode='r') as archivo:
     data = archivo.read()
